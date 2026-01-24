@@ -305,6 +305,10 @@ body {
 .project-btn:hover {
   background: #2563eb;
 }
+.project-card:nth-child(3) {
+  border: 2px solid var(--accent);
+}
+
 .tools-skills {
   margin-top: 1rem;
   background: #f1f5f9;
